@@ -8,13 +8,13 @@ The main goal of this project was to aggravate the data and show the trends occu
 
 ### How is the district summary affected?
 
-![Screenshot] (School_District_Summary.png)
+![Screenshot](School_District_Summary.png)
 
 When reevaluating the average scores and passing percentages within the fifteen schools in the district, shifts were discovered. The average math  score dropped by .1; the passing math, reading, and overall passing percentage dropped by 1%. The only score that remained the same was the average reading score.
 
 ### How is the school summary affected?
 
-![Screenshot] (top_five_school_summary.png)
+![Screenshot](top_five_school_summary.png)
 
 * Thomas High Schoolkept their second place position in the top 5 schools
 * Previously having a 90.94% overall passing score
